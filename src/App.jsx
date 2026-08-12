@@ -3,7 +3,7 @@ import React, { useEffect, useMemo, useState } from "react";
 const BIRTHDAY = new Date(2026, 7, 9); // 9 August 2026
 const DOB = new Date(2005, 7, 9);      // 9 August 2005
 const NIKAH = "7 June 2026";
-const PASSWORD = "07-06-2026";
+const PASSWORD = "07062026";
 
 const pages = [
   { id: "home", label: "Home", icon: "♥" },
